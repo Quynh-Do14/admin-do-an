@@ -1,0 +1,82 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.header-item {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  padding: 0 60px;
+
+}
+
+.user_name {
+  font-weight: 500;
+  font-size: 14px;
+  color: #fff;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.sub-menu-layout {
+  margin-left: 20px;
+}
+
+.layout-header {
+  background-color: #fff;
+  margin-bottom: 12px;
+  background-color: #4c6ef8;
+  border-radius: 0 0 10px 10px;
+  height: 200px;
+  padding: 30px;
+}
+
+.main-layout {
+  background-color: #f0f9ff;
+  border-radius: 10px;
+  margin-top: -120px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border: 1px solid rgb(163, 154, 154);
+  overflow: auto;
+}
+
+.logo-admin {
+  width: 125px;
+  height: 26px;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+}
+
+.logo {
+  border-bottom: solid 3px #21c1d6;
+}
+
+.left-menu{
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.avatar{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}

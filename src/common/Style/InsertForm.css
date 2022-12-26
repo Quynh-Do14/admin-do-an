@@ -1,0 +1,25 @@
+.page-add {
+    background-color: #f0f9ff;
+    padding: 2% 5%;
+    overflow: auto;
+    height: 720px;
+}
+
+.backPrev {
+    margin-bottom: 20px;
+}
+
+.form-add {
+    /* border: 1px solid rgb(163, 154, 154); */
+    padding: 5%;
+    background-color: #fff;
+    border-radius: 10px;
+
+}
+
+.btn-primary {
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
